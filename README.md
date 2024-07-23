@@ -17,7 +17,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 
 <br> <br>
 
-<h2>🍩 Skill </h2> 
+<h2>🍩 Programming Languages and Frameworks </h2> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +46,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
 <h2>🍩 Favorites</h2> 
-  SSG Landers, Han Yo-han
+  Baseball, SSG Landers, Han Yo-han, Aglio e Olio, Tteokbokki made by mommy, League of Legends (Top/Mid Laner), occult-themed contents 
 
 <!---
 SeungyeonOh-1999/SeungyeonOh-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
