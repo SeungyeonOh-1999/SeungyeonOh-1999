@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=e3d5ca&height=400&section=header&text=Stat%20Log&fontSize=90&fontColor=6c584c" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=e3d5ca&height=200&section=header&text=Stat%20Log&fontSize=45&fontColor=6c584c" />
 
 <h2>🍩 Introduction </h2>
    I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024
