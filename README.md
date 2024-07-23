@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeonOh-1999&count_bg=%23F5EBE0&title_bg=%23D6CCC2&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=e3d5ca&height=200&section=header&text=Stat%20Log&fontSize=45&fontColor=6c584c" />
 
 <h2>🍩 Introduction </h2>
