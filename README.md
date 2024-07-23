@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=e3d5ca&width=1500&height=150&section=header&text=🧸SY's%20STAT%20LOG🧸&fontSize=60&fontColor=6c584c"/>
 
 <h2>🍩 Introduction </h2>
-   I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024
-   ,and currently interning with the Gravitational Applications Research Team at NIMS (National Institute for Mathematical Sciences).
+   I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravitational Applications Research Team at NIMS (National Institute for Mathematical Sciences).
    
 <br> <br> 
 
@@ -50,7 +49,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
 <div align=left> <h2>🍩 How to reach me</h2> 
-  <a href="mailto:woojuinnnn@google.com"><img src="https://img.shields.io/badge/gmail-d6ccc2?style=flat-square&logo=gmail&logoColor=white&link=mailto:woojuinnnn@google.com"/></a>
+  <a href="mailto:woojuinnnn@gmail.com"><img src="https://img.shields.io/badge/gmail-d6ccc2?style=flat-square&logo=gmail&logoColor=white&link=mailto:woojuinnnn@gmail.com"/></a>
   <a href="https://www.instagram.com/sksy000000000?igsh=YWdxdDJiYjdwZzh5&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-f5ebe0?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sksy000000000?igsh=YWdxdDJiYjdwZzh5&utm_source=qr"/></a> 
 <br> <br>
 
