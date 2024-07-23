@@ -1,7 +1,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeonOh-1999&count_bg=%23F5EBE0&title_bg=%23D6CCC2&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=e3d5ca&height=200&section=header&text=Stat%20Log&fontSize=45&fontColor=6c584c" />
-
 <h2>🍩 Introduction </h2>
    I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024
    ,and currently interning with the Gravitational Applications Research Team at NIMS (National Institute for Mathematical Sciences).
@@ -20,23 +18,23 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
 <h2>🍩 Skill </h2> <div align=center> 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white"> 
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> 
+<img src="https://img.shields.io/badge/R-edede9?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Python-d6ccc2?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/latex-f5ebe0?style=for-the-badge&logo=latex&logoColor=white"> 
+<img src="https://img.shields.io/badge/Sqlite-e3d5ca?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-d5bdaf?style=for-the-badge&logo=keras&logoColor=white"> 
+<img src="https://img.shields.io/badge/Streamlit-a98467?style=for-the-badge&logo=streamlit&logoColor=white"> 
 
 
 <br> <br>
 
 <div align=left> <h2>🍩 How to reach me</h2> 
-  woojuinnnn@gmail.com
-
+  <a href="mailto:woojuinnnn@google.com"><img src="https://img.shields.io/badge/gmail-d6ccc2?style=flat-square&logo=gmail&logoColor=white&link=mailto:woojuinnnn@google.com"/></a>
+  <a href="https://www.instagram.com/sksy000000000?igsh=YWdxdDJiYjdwZzh5&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-f5ebe0?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sksy000000000?igsh=YWdxdDJiYjdwZzh5&utm_source=qr"/></a> 
 <br> <br>
 
 <h2>🍩 Favorites</h2> 
-  woojuinnnn@gmail.com
+  Han Yo-han
 
 <!---
 SeungyeonOh-1999/SeungyeonOh-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
