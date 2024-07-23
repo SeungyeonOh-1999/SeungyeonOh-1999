@@ -46,7 +46,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
 <h2>🍩 Favorites</h2> 
-  Han Yo-han
+  SSG Landers, Han Yo-han
 
 <!---
 SeungyeonOh-1999/SeungyeonOh-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
