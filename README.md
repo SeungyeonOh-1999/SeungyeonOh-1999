@@ -18,7 +18,8 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
 <h2>🍩 Education </h2>
-🍪 B.S. Dept of Statistics, Sookmyung Women University, Seoul, Korea, 2018-2022. (Rank : 1/40) <br>
+🍪 B.S. Dept of Statistics, Sookmyung Women University, Seoul, Korea, 2018-2022. <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(Graduated with highest honor, Rank : 1/40) <br>
 🍪 M.S. Dept of Statistics, Sookmyung Women University, Seoul, Korea, 2022-2024. <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspThesis : Nonparametric mean and variance adaptive classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
