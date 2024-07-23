@@ -31,7 +31,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
         <img src="https://img.shields.io/badge/latex-f5ebe0?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
         <img src="https://img.shields.io/badge/Sqlite-e3d5ca?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
         <img src="https://img.shields.io/badge/Keras-d5bdaf?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-        <img src="https://img.shields.io/badge/Streamlit-a98467?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+        <img src="https://img.shields.io/badge/Streamlit-edede9?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
     </div>
 </body>
 </html>
