@@ -1,6 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeonOh-1999&count_bg=%23F5EBE0&title_bg=%23D6CCC2&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-![OGQ_from단아_2020-11-10](https://github.com/user-attachments/assets/8d5c6b42-e3ca-4709-91d9-28ebc06ca24a)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=d5bdaf&width=1500&height=300&section=header&text=SY's%20STAT%20LOG&fontSize=70&fontColor=6c584c"/>
+
 <h2>🍩 Introduction </h2>
    I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024
    ,and currently interning with the Gravitational Applications Research Team at NIMS (National Institute for Mathematical Sciences).
@@ -56,6 +57,11 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <h2>🍩 Favorites</h2> 
   Baseball, SSG Landers, Han Yo-han, Aglio e Olio, Tteokbokki made by mommy, League of Legends (Top/Mid Laner), occult-themed contents 
 
+<br><br> 
+<h2></h2> 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{https://github.com/SeungyeonOh-1999})
 <!---
 SeungyeonOh-1999/SeungyeonOh-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
