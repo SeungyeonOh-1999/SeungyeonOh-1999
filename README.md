@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungyeonOh-1999&count_bg=%23F5EBE0&title_bg=%23D6CCC2&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-<img width="1000" height="300" alt="OGQ_from단아_2020-11-10" src="https://github.com/user-attachments/assets/fa695bb1-a0af-429f-9012-4965318889a7">
+<img width="1500" height="300" alt="OGQ_from단아_2020-11-10" src="https://github.com/user-attachments/assets/fa695bb1-a0af-429f-9012-4965318889a7">
 <h2>🍩 Introduction </h2>
    I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024
    ,and currently interning with the Gravitational Applications Research Team at NIMS (National Institute for Mathematical Sciences).
