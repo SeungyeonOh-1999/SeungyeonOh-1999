@@ -58,15 +58,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br><br> 
 <h2></h2> 
 
-<p align="left">
-  <a href="https://solved.ac/{handle}">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={handle}" alt="Solved.ac Profile" width="300"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungyeonOh-1999" alt="Top Languages" width="300"/>
-  </a>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungyeonOh-1999" alt="Top Languages" width="300"/>
 
 
 <!---
