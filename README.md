@@ -50,7 +50,6 @@ classification rule for high-dimensional data with heteroscedastic variances.
 
 <div align=left> <h2>🍩 How to reach me</h2> 
   <a href="mailto:woojuinnnn@gmail.com"><img src="https://img.shields.io/badge/gmail-d6ccc2?style=flat-square&logo=gmail&logoColor=white&link=mailto:woojuinnnn@gmail.com"/></a>
-  <a href="https://www.instagram.com/sksy000000000?igsh=YWdxdDJiYjdwZzh5&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-f5ebe0?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sksy000000000?igsh=YWdxdDJiYjdwZzh5&utm_source=qr"/></a> 
 <br> <br>
 
 <h2>🍩 Favorites</h2> 
