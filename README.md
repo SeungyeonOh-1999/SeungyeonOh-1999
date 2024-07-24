@@ -58,8 +58,17 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br><br> 
 <h2></h2> 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{https://github.com/SeungyeonOh-1999})
+<p align="left">
+  <a href="https://solved.ac/{handle}">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={handle}" alt="Solved.ac Profile" width="300"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungyeonOh-1999" alt="Top Languages" width="300"/>
+  </a>
+</p>
+
+
+
 <!---
 SeungyeonOh-1999/SeungyeonOh-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
