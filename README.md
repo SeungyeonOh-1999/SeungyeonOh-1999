@@ -25,7 +25,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspThesis : Nonparametric mean and variance adaptive classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
-<h2>🍩 Programming Languages and Frameworks </h2> 
+<h2>🍩 Programming Languages, Frameworks, and Other Technologies </h2> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,6 +44,21 @@ classification rule for high-dimensional data with heteroscedastic variances.
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="inline-images">
+        <img src="https://img.shields.io/badge/PyTorch-edede9?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-d6ccc2?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/latex-f5ebe0?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+        
+    </div>
+</body>
+</html>
 
 
 <br> <br>
