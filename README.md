@@ -54,9 +54,6 @@ classification rule for high-dimensional data with heteroscedastic variances.
     <div class="inline-images">
         <img src="https://img.shields.io/badge/PyTorch-edede9?style=for-the-badge&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-d6ccc2?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/latex-f5ebe0?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-        
-    </div>
 </body>
 </html>
 
