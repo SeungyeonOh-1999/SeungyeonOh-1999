@@ -62,9 +62,10 @@ classification rule for high-dimensional data with heteroscedastic variances.
 
 <div align=left> <h2>🍩 How to reach me</h2> 
   <a href="mailto:woojuinnnn@gmail.com"><img src="https://img.shields.io/badge/gmail-d6ccc2?style=flat-square&logo=gmail&logoColor=white&link=mailto:woojuinnnn@gmail.com"/></a>
-<a href="(BLOG, https://blog.naver.com/syoh523)" target="_blank">
-<img src="https://img.shields.io/badge/Blog-f5ebe0?style=flat-square"/>
+<a href="https://blog.naver.com/syoh523" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-f5ebe0?style=flat-square" alt="Blog Badge"/>
 </a>
+
    <br> <br>
 
 <h2>🍩 Favorites</h2> 
