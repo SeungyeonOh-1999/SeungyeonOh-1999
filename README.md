@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=e3d5ca&width=1500&height=150&section=header&text=🧸SY's%20STAT%20LOG🧸&fontSize=60&fontColor=6c584c"/>
 
 <h2>🍩 Introduction </h2>
-   I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I’m graduating with a M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravity Research and Application Team (GReAT) at National Institute for Mathematical Sciences (NIMS).
+   I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I graduated a M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravity Research and Application Team (GReAT) at National Institute for Mathematical Sciences (NIMS).
    
 <br> <br> 
 
@@ -21,7 +21,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <h2>🍩 Education </h2>
 🍪 B.S. Dept of Statistics, Sookmyung Women's University, Seoul, Korea, 2018-2022. <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(Graduated with highest honor, Rank : 1/40) <br>
-🍪 M.S. Dept of Statistics, Sookmyung Women's University, Seoul, Korea, expected graduation in August 2024. <br>
+🍪 M.S. Dept of Statistics, Sookmyung Women's University, Seoul, Korea, 2022-2024. <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspThesis : Nonparametric mean and variance adaptive classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
