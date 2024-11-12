@@ -3,13 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=e3d5ca&width=1500&height=150&section=header&text=🧸SY's%20STAT%20LOG🧸&fontSize=60&fontColor=6c584c"/>
 
 <h2>🍩 Introduction </h2>
-   I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I graduated a M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravity Research and Application Team (GReAT) at National Institute for Mathematical Sciences (NIMS).
+   I’m Seungyeon Oh. I’m interested in analysis of High Dimensional Low Sample Size data based on Linear Discriminant Analysis (LDA), and extraterrestrial life. I graduated with an M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravity Research and Application Team (GReAT) at National Institute for Mathematical Sciences (NIMS).
    
 <br> <br> 
 
 <h2>🍩 Research</h2>
 <p><b>🍪 Research under preparation</b></p>
-   A Variant of Linear discriminant analysis (LDA) for matrix valued data based on nonparametric maximum likelihood estimation. <br><br>
+   🥨 A Variant of Linear discriminant analysis (LDA) for matrix valued data based on nonparametric maximum likelihood estimation. <br>
+   🥨 Data Analysis of Prompt Elasto-Gravity Signals (PEGs) using YeMIGO data. <br><br>
 <p><b>🍪 Publications</b></p>
 Oh, S. and Park, H. (2024). Nonparametric mean and variance adaptive
 classification rule for high-dimensional data with heteroscedastic variances.
