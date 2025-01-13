@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E8F9FF&width=1500&height=150&section=header&text=☃️SY's%20STAT%20LOG☃️&fontSize=55&fontColor=020202"/>
 
 <h2>🧊 Introduction </h2>
-   I’m Seungyeon Oh. I’m interested in High Dimensional Low Sample Size (HDLSS) data analysis. I graduated with an M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravity Research and Application Team (GReAT) at National Institute for Mathematical Sciences (NIMS).
+   I’m Seungyeon Oh. I'm interested in parameter estimation and the application of machine learning models such as Linear Discriminant Analysis (LDA) in High Dimensional Low Sample Size (HDLSS) settings. I graduated with an M.S. in Statistics from Sookmyung Women's University in August 2024, and currently interning with the Gravity Research and Application Team (GReAT) at National Institute for Mathematical Sciences (NIMS).
    
 <br> <br>
 
