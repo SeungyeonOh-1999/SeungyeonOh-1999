@@ -9,8 +9,8 @@
 
 <h2>🍩 Research</h2>
 <p><b>🍪 Research under preparation</b></p>
-   🥨 A Variant of Linear discriminant analysis (LDA) for matrix valued data based on nonparametric maximum likelihood estimation. <br>
-   🥨 Data Analysis of Prompt Elasto-Gravity Signals (PEGs) using YeMIGO data. <br><br>
+   🥨 Nonparametric Linear Discriminant Analysis for High Dimensional Matrix Valued Data. <br>
+   🥨 Detecting Prompt Elastogravity Signals Using a Non-Parametric Statistical Method with a Superconducting Gravimeter. <br><br>
 <p><b>🍪 Publications</b></p>
 Oh, S. and Park, H. (2024). Nonparametric mean and variance adaptive
 classification rule for high-dimensional data with heteroscedastic variances.
