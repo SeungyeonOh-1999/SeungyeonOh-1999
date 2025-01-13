@@ -48,7 +48,7 @@ classification rule for high-dimensional data with heteroscedastic variances.
 <br> <br>
 
 <div align=left> <h2>🧊 How to reach me</h2> 
-  <a href="mailto:woojuinnnn@gmail.com"><img src="https://img.shields.io/badge/gmail-E8F9FF?style=flat-square&logo=gmail&logoColor=black&link=mailto:thisissyoh@gmail.com"/></a>
+  <a href="mailto:thisissyoh@gmail.com"><img src="https://img.shields.io/badge/gmail-E8F9FF?style=flat-square&logo=gmail&logoColor=black&link=mailto:thisissyoh@gmail.com"/></a>
 <a href="https://blog.naver.com/syoh523" target="_blank">
   <img src="https://img.shields.io/badge/Blog-C4D9FF?style=flat-square" alt="Blog Badge"/>
 </a>
